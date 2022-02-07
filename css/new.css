@@ -1,0 +1,36 @@
+.logo
+{
+    height: 100px;
+    width: 300px;
+    float: left;
+    align: top;
+}
+.logo-bangla
+{
+    float: left;
+    margin-top: 20px;
+}
+.pos{
+    align:top;
+}
+.pos-b
+{
+    margin: 20px;
+}
+.bg
+{
+    background-color: #0f6674;
+}
+.des {
+    border: 1px solid cornflowerblue;
+}
+.card-img-height
+{
+    height: 100px;
+    width: 80px;
+    margin: 20px;
+}
+.h-16
+{
+    font-size: small;
+}
